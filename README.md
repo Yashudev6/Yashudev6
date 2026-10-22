@@ -1,5 +1,5 @@
 # 💫 About Me:
-## ABOUT ME<br><br>Motivated Computer & Information Systems Security student with foundational skills in Java, Python, JavaScript, React.js, Node.js, Express.js, MongoDB, and SQL. Hands-on experience developing a full-stack Train Booking Web Application, including responsive UI design, REST APIs, CRUD operations, data validation, and database management. Proficient in Git, GitHub, and MS Office, with a strong foundation in problem-solving, analytical thinking, communication, and teamwork. Eager to apply my technical knowledge, learn new technologies, and contribute to real-world projects in a professional environment.
+Motivated Computer & Information Systems Security student with foundational skills in Java, Python, JavaScript, React.js, Node.js, Express.js, MongoDB, and SQL. Hands-on experience developing a full-stack Train Booking Web Application, including responsive UI design, REST APIs, CRUD operations, data validation, and database management. Proficient in Git, GitHub, and MS Office, with a strong foundation in problem-solving, analytical thinking, communication, and teamwork. Eager to apply my technical knowledge, learn new technologies, and contribute to real-world projects in a professional environment.
 
 
 ## 🌐 Socials:
