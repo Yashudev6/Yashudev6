@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="190" viewBox="0 0 760 190" role="img" aria-labelledby="title desc">
+<title id="title">YASH pixel contribution art</title>
+<desc id="desc">The name YASH formed from GitHub-green pixel squares on a dark background.</desc>
+<rect width="760" height="190" rx="16" fill="#0d1117"/>
+<text x="28" y="34" fill="#7ee787" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="2">CONTRIBUTION PIXEL ART</text>
+<g transform="translate(190 53)" fill="#39d353">
+<!-- Y -->
+<rect x="0" y="0" width="12" height="12"/><rect x="24" y="0" width="12" height="12"/><rect x="12" y="12" width="12" height="12"/><rect x="12" y="24" width="12" height="12"/><rect x="12" y="36" width="12" height="12"/><rect x="12" y="48" width="12" height="12"/><rect x="12" y="60" width="12" height="12"/>
+<!-- A -->
+<rect x="54" y="0" width="12" height="12"/><rect x="66" y="0" width="12" height="12"/><rect x="78" y="0" width="12" height="12"/><rect x="42" y="12" width="12" height="12"/><rect x="90" y="12" width="12" height="12"/><rect x="42" y="24" width="12" height="12"/><rect x="90" y="24" width="12" height="12"/><rect x="42" y="36" width="12" height="12"/><rect x="54" y="36" width="12" height="12"/><rect x="66" y="36" width="12" height="12"/><rect x="78" y="36" width="12" height="12"/><rect x="90" y="36" width="12" height="12"/><rect x="42" y="48" width="12" height="12"/><rect x="90" y="48" width="12" height="12"/><rect x="42" y="60" width="12" height="12"/><rect x="90" y="60" width="12" height="12"/>
+<!-- S -->
+<rect x="126" y="0" width="12" height="12"/><rect x="138" y="0" width="12" height="12"/><rect x="150" y="0" width="12" height="12"/><rect x="162" y="0" width="12" height="12"/><rect x="126" y="12" width="12" height="12"/><rect x="126" y="24" width="12" height="12"/><rect x="138" y="24" width="12" height="12"/><rect x="150" y="24" width="12" height="12"/><rect x="162" y="36" width="12" height="12"/><rect x="162" y="48" width="12" height="12"/><rect x="126" y="60" width="12" height="12"/><rect x="138" y="60" width="12" height="12"/><rect x="150" y="60" width="12" height="12"/><rect x="162" y="60" width="12" height="12"/>
+<!-- H -->
+<rect x="198" y="0" width="12" height="12"/><rect x="198" y="12" width="12" height="12"/><rect x="198" y="24" width="12" height="12"/><rect x="198" y="36" width="12" height="12"/><rect x="198" y="48" width="12" height="12"/><rect x="198" y="60" width="12" height="12"/><rect x="210" y="36" width="12" height="12"/><rect x="222" y="36" width="12" height="12"/><rect x="234" y="36" width="12" height="12"/><rect x="246" y="0" width="12" height="12"/><rect x="246" y="12" width="12" height="12"/><rect x="246" y="24" width="12" height="12"/><rect x="246" y="36" width="12" height="12"/><rect x="246" y="48" width="12" height="12"/><rect x="246" y="60" width="12" height="12"/>
+</g>
+<text x="380" y="166" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">BUILD • COMMIT • REPEAT</text>
+</svg>
