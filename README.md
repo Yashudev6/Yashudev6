@@ -10,10 +10,8 @@ Motivated Computer Science student with skills in Java, Python, JavaScript, Reac
 
 ## 💻 Tech Stack
 
-A wider toolkit, presented in a custom **frosted-glass / glassmorphism** style.
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yashudev6/Yashudev6/main/tech-stack-glass.svg" alt="Tech stack in frosted glass button style: Java, Python, JavaScript, TypeScript, Dart, HTML5, CSS3, React, Next.js, Tailwind CSS, Flutter, Figma, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, REST APIs, Git, GitHub, GitHub Actions, Postman, Supabase and Firebase" width="100%">
+  <img src="https://raw.githubusercontent.com/Yashudev6/Yashudev6/main/tech-stack-glass.svg" alt="Technology logos in transparent glass-style buttons: Java, Python, JavaScript, TypeScript, Dart, HTML5, CSS3, React, Next.js, Tailwind CSS, Flutter, Figma, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, REST APIs, Git, GitHub, GitHub Actions, Postman, Supabase and Firebase" width="100%">
 </p>
 
 ## 🐍 GitHub Contribution Snake
