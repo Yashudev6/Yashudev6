@@ -11,6 +11,8 @@
 
 <div align="center">
 
+<img src="./assets/developer-id.svg?v=1" alt="Animated developer ID badge for Yash Savita" width="230">
+
 ### `Building. Learning. Improving.`
 
 **Computer Science Student · Full-Stack Developer · Curious Problem Solver**
