@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="520" viewBox="0 0 420 520" role="img" aria-labelledby="title desc">
+<title id="title">Yash Savita developer ID badge</title><desc id="desc">An animated developer ID card with a gently swinging lanyard.</desc>
+<defs><linearGradient id="strap" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE"/><stop offset=".55" stop-color="#8B5CF6"/><stop offset="1" stop-color="#E879F9"/></linearGradient><linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101629"/><stop offset="1" stop-color="#202344"/></linearGradient><linearGradient id="shine"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".3"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="420" height="520" rx="24" fill="none"/>
+<g transform="translate(210 15)">
+ <g>
+  <animateTransform attributeName="transform" type="rotate" values="-3 0 0;3 0 0;-2 0 0;0 0 0" dur="5s" repeatCount="indefinite"/>
+  <path d="M-38 0 L-26 125 Q0 150 26 125 L38 0" fill="none" stroke="url(#strap)" stroke-width="17" stroke-linecap="round"/>
+  <path d="M-35 3 L-24 121 Q0 140 24 121 L35 3" fill="none" stroke="#FFFFFF" stroke-opacity=".55" stroke-width="2" stroke-dasharray="4 8"/>
+  <rect x="-23" y="124" width="46" height="34" rx="8" fill="#94A3B8" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="-11" y="132" width="22" height="19" rx="6" fill="#475569"/>
+  <path d="M0 156 v14" stroke="#CBD5E1" stroke-width="7" stroke-linecap="round"/>
+  <g transform="translate(0 180)">
+   <rect x="-112" y="-7" width="224" height="300" rx="22" fill="url(#card)" stroke="url(#strap)" stroke-width="2.5" filter="url(#glow)"/>
+   <rect x="-99" y="7" width="198" height="272" rx="15" fill="none" stroke="#A5B4FC" stroke-opacity=".25"/>
+   <text x="0" y="31" text-anchor="middle" fill="#67E8F9" font-family="monospace" font-size="10" letter-spacing="3">DEVELOPER ID</text>
+   <circle cx="0" cy="91" r="43" fill="#312E81" stroke="url(#strap)" stroke-width="3"/>
+   <circle cx="0" cy="91" r="34" fill="#1E293B"/>
+   <text x="0" y="103" text-anchor="middle" fill="#E9D5FF" font-family="monospace" font-size="31">&lt;/&gt;</text>
+   <text x="0" y="157" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="22" font-weight="700">Yash Savita</text>
+   <text x="0" y="180" text-anchor="middle" fill="#C4B5FD" font-family="monospace" font-size="11">FULL-STACK DEVELOPER</text>
+   <text x="0" y="207" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="11">@Yashudev6</text>
+   <g transform="translate(-67 230)" fill="#E0E7FF"><rect width="3" height="23"/><rect x="7" width="1.5" height="23"/><rect x="12" width="4" height="23"/><rect x="21" width="2" height="23"/><rect x="28" width="5" height="23"/><rect x="37" width="1.5" height="23"/><rect x="42" width="3" height="23"/><rect x="49" width="1.5" height="23"/><rect x="55" width="5" height="23"/><rect x="64" width="2" height="23"/><rect x="71" width="4" height="23"/><rect x="80" width="1.5" height="23"/><rect x="86" width="3" height="23"/><rect x="94" width="2" height="23"/><rect x="101" width="5" height="23"/><rect x="111" width="2" height="23"/><rect x="119" width="4" height="23"/></g>
+   <path d="M-80 10 L-10 10 L100 265 L70 265 Z" fill="url(#shine)" opacity=".65"><animateTransform attributeName="transform" type="translate" values="-150 0;150 0;-150 0" dur="6s" repeatCount="indefinite"/></path>
+  </g>
+ </g>
+</g>
+</svg>
